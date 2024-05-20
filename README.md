@@ -1,2 +1,2 @@
-# Regular-Expression-to-NFA-
-In Python
+# Regular-Expression-to-NFA
+Using Python only simple Regular Expressions will be converted.
